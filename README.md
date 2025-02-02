@@ -1,4 +1,4 @@
-# Text-Sentence-Similarity-Assn-3-Topsia
+# Text-Sentence-Similarity-Assn-3-Topsis
 
 # Sentence Similarity & Model Ranking with TOPSIS
 
